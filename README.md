@@ -4,7 +4,7 @@ This repository contains the implementation of a brain tumor segmentation task u
 
 ---
 
-## 📄 Project Description
+## Project Description
 
 This project was completed as part of the Artificial Intelligence course at the University of Tehran. It involves:
 
@@ -15,4 +15,5 @@ This project was completed as part of the Artificial Intelligence course at the 
 
   > 📁 **Dataset**: [LGG MRI Segmentation Dataset](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation/data)
 
-
+## Results
+You can check the report.pdf file for results and implementation details.
